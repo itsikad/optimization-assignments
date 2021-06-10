@@ -1,6 +1,7 @@
 # Optimization
 
 Programming assignments for my students in Optimziation course at Tel-Aviv University.
+Note: classes, methods and functions API's are designed for automatic testing.
 
 Spring 2020: Newton's Method and Conjugate Gradient optimizers. Solving a problem of shortest route between two points where the speed varies across layers. Solution available in: `/spring_2020/main.py`.
 
